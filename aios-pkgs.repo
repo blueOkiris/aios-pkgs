@@ -1,4 +1,5 @@
 [AIOS-Packages]
 name=AIOS Packages
+baseurl=https://dylan-turner.mynetgear.com/aios-pkgs/
 gpgcheck=0
 
